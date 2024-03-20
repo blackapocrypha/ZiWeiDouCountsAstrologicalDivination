@@ -90,7 +90,7 @@ public class StarBureaUtil {
     }
 
     /**
-     * 获取紫微星的位置 【查表发】
+     * 获取紫微星的位置 【查表法】
      * @param numJu  月份
      * @param day  日期
      * @return Integer
